@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+      Need a visual blank slate?
+      Remove all code in `styles.css`!
+    -->
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <br> <br> <br>
+    <strong> This is Patricio </strong>
+    <br>
+    <p> The thing I like the most in this life is futball just as Mauro but the diference is that instead of the Real Madrid my favorite team is tme FC Barcelona. I have two cats Goma and Crallola, both are girls and have the same age. </p>
+
+  </body>
+</html>
