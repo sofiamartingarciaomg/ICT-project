@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+      Need a visual blank slate?
+      Remove all code in `styles.css`!
+    -->
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="script.js"></script>
+  </head>
+  <body>
+    <br> <br> <br>
+    <strong> This is Mauro </strong>
+    <br>
+    <p> I like to see and play football and my 2 favorite teams are the Club America and the Real Madrid and my favorite player is Cristiano Ronaldo and my favorite food is ramen, i haded a dog that his name was Freddy but he die but i still love him. </p>
+  </body>
+</html>
