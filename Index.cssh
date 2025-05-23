@@ -1,0 +1,35 @@
+# ICT-project
+body {
+  background-color: #f6f6f6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+main h1 {
+  font-size: 3em;
+  color: #6C5CE7;
+  margin-top: 50px;
+}
+
+nav a {
+  display: inline-block;
+  margin: 15px;
+  font-size: 1.5em;
+  color: #00b894;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: #0984e3;
+  text-decoration: underline;
+  transform: scale(1.1);
+}
+
+nav {
+  margin-top: 40px;
+}
